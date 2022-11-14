@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br> 
   
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rodrigobrauber%2Frodrigobrauber&labelColor=%2337d67a&countColor=%23263759)
- 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rodrigobrauber.rodrigobrauber)
   
 
   <br>
