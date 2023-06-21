@@ -9,6 +9,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigobrauber&show_icons=true&theme=dark&locale=en&layout=compact" alt="rodrigobrauber" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigobrauber&show_icons=true&theme=dark&locale=en&include_all_commits=true" alt="rodrigobrauber" /></p>
-teste
+<!-- teste -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigobrauber&theme=dark" alt="rodrigobrauber" /></p>
